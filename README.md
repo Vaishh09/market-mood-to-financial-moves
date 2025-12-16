@@ -532,14 +532,6 @@ SOFTWARE.
 
 ---
 
-## 📞 Contact
-
-**Team Lead**: Handsome Onojerame  
-- GitHub: [@Honojerame](https://github.com/Honojerame)
-- Project Repository: [prisca-spy-predictor](https://github.com/Honojerame/prisca-spy-predictor)
-
----
-
 **⚠️ Disclaimer**: This project is for educational purposes only. Not financial advice. Past performance does not guarantee future results.
 - [ ] Deployment to cloud
 
