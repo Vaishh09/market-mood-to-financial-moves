@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="200" height="200">
+  <!-- Circular background -->
+  <circle cx="30" cy="30" r="28" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  
+  <!-- Neural network nodes (AI symbolism) -->
+  <circle cx="15" cy="20" r="3" fill="white" opacity="0.9"/>
+  <circle cx="30" cy="15" r="3" fill="white" opacity="0.9"/>
+  <circle cx="45" cy="20" r="3" fill="white" opacity="0.9"/>
+  <circle cx="20" cy="35" r="3" fill="white" opacity="0.9"/>
+  <circle cx="40" cy="35" r="3" fill="white" opacity="0.9"/>
+  
+  <!-- Neural connections -->
+  <line x1="15" y1="20" x2="30" y2="15" stroke="white" stroke-width="1" opacity="0.5"/>
+  <line x1="30" y1="15" x2="45" y2="20" stroke="white" stroke-width="1" opacity="0.5"/>
+  <line x1="15" y1="20" x2="20" y2="35" stroke="white" stroke-width="1" opacity="0.5"/>
+  <line x1="45" y1="20" x2="40" y2="35" stroke="white" stroke-width="1" opacity="0.5"/>
+  <line x1="20" y1="35" x2="40" y2="35" stroke="white" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Upward trending chart (Finance symbolism) -->
+  <path d="M 10 50 L 20 48 L 30 45 L 40 42 L 50 38" 
+        stroke="url(#greenGradient)" 
+        stroke-width="2.5" 
+        fill="none" 
+        stroke-linecap="round"/>
+  
+  <!-- Data points on chart -->
+  <circle cx="10" cy="50" r="2" fill="#10b981"/>
+  <circle cx="20" cy="48" r="2" fill="#10b981"/>
+  <circle cx="30" cy="45" r="2" fill="#10b981"/>
+  <circle cx="40" cy="42" r="2" fill="#10b981"/>
+  <circle cx="50" cy="38" r="2" fill="#10b981"/>
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#34d399;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>
